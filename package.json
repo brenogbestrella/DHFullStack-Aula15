@@ -1,0 +1,27 @@
+{
+  "name": "DHFullStack-Aula10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenogbestrella/DHFullStack-Aula10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenogbestrella/DHFullStack-Aula10/issues"
+  },
+  "homepage": "https://github.com/brenogbestrella/DHFullStack-Aula10#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
